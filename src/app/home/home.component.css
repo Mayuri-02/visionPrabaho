@@ -139,6 +139,11 @@ button:hover span:after {
     margin: 3% 0 3% 0;
     width:100%;
 }
+.impact-img{
+    margin-left: 20px; 
+    margin-right: 20px; 
+    margin-bottom: 26px;
+}
 .impact-details{
     flex-grow: 1;
     text-align: center;
@@ -172,6 +177,9 @@ button:hover span:after {
 @media only screen and (max-width: 768px){
     .impact-text{
         font-size: 18px;
+    }
+    .impact-img{
+        margin-left: 6px; 
     }
 
 }

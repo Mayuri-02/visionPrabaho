@@ -1,0 +1,35 @@
+.homeHeader{
+    text-align: center;
+    color:#00203FFF;
+    font-family: 'Eczar', serif;
+    font-size: 40px;
+    font-style: italic;
+    background-color: #e7e7e7;
+    margin: 3% 0 3% 0;
+}
+.members{
+    color:#00203FFF;
+    background-color: #fff;
+    margin: 3% 5%;
+    text-align: left;
+    font-family: "Alegreya";
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+}
+.member{
+    display: inline-flex;
+    margin: 2% 2%;
+}
+.member-text{
+    margin:0% 2%;
+}
+.info{
+    margin:0px;
+}
+.member-designation{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+

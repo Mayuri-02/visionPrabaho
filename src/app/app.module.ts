@@ -23,6 +23,7 @@ import { WhoGuidelinesComponent } from './who-guidelines/who-guidelines.componen
 import { OtherActivityComponent } from './other-activity/other-activity.component';
 import { UnNailingTreesComponent } from './un-nailing-trees/un-nailing-trees.component';
 import { MangroveComponent } from './mangrove/mangrove.component';
+import { PortfolioComponent } from './portfolio/portfolio.component';
 
 
 @NgModule({
@@ -47,6 +48,7 @@ import { MangroveComponent } from './mangrove/mangrove.component';
     OtherActivityComponent,
     UnNailingTreesComponent,
     MangroveComponent,
+    PortfolioComponent,
   ],
   imports: [
     BrowserModule,
