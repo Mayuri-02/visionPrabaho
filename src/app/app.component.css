@@ -10,6 +10,9 @@
 .navbar>.container{
 	width:100%;
 }
+.navbar{
+	background-color: #b1d877;
+}
 #myCarousel{
 	width:60%;
 }
@@ -145,7 +148,7 @@
 	width:90%;
 	height:auto;
 	line-height:50px;
-	background-color: #f8f8f8;
+	background-color: #b1d877;
 	/*background: rgba(255,255,255,.96);*/
 	z-index: 2;
 	transition: top .3s 0s;
@@ -263,7 +266,7 @@ ul li.has-subnav .accordion-btn i{
 	
 	.cd-main-content{
 		display: block;
-		background-color: #f8f8f8;
+		background-color: #b1d877;
     	border-color: #e7e7e7;
 		position: fixed;
 		top: 0;

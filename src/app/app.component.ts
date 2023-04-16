@@ -15,4 +15,8 @@ export class AppComponent {
   closeSidePanel(){
     this.opened=false;
   }
+  toggle(){
+    if(this.opened==true)
+      this.opened=false;
+  }
 }
